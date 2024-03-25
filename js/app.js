@@ -3,7 +3,7 @@ const { createApp } = Vue
 createApp({
     data: function() {
       return {
-        message: 'Ciaone!',
+        message: 'Ciaone Vue!',
         pic: './img/de.jpg'
       }
     }
